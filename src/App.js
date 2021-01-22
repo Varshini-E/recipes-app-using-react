@@ -13,7 +13,7 @@ const App = () => {
 
   useEffect(() => {
     getRecipes();
-  },[query]);
+  },[query,getRecipes]);
 
   const getRecipes = async () => {
     const response = await fetch(`https://api.edamam.com/search?q=${query}&app_id=${app_id}&app_key=${app_key}`);
