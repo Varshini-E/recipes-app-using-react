@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## References
 
-YouTube Tutorial [https://www.youtube.com/watch?v=U9T6YkEDkMo]
+[YouTube Tutorial](https://www.youtube.com/watch?v=U9T6YkEDkMo)
 
 ## Available Scripts
 
